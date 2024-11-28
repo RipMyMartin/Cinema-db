@@ -6,5 +6,10 @@ namespace Cinema_db
         {
             InitializeComponent();
         }
+
+        private void createdb()
+        {
+            
+        }
     }
 }
